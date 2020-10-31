@@ -1,0 +1,4 @@
+name: "RandomServerJoin"
+author: "WaterdogTEAM"
+version: "1.0"
+main: "pe.waterdog.examples.RandomServerJoin"
