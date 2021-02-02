@@ -1,6 +1,6 @@
-package pe.waterdog.examples;
+package dev.waterdog.examples;
 
-import pe.waterdog.examples.handler.RandomServerJoinHandler;
+import dev.waterdog.examples.handler.RandomServerJoinHandler;
 import pe.waterdog.plugin.Plugin;
 
 public class RandomServerJoin extends Plugin {

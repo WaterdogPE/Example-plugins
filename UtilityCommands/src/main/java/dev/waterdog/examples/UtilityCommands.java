@@ -1,9 +1,9 @@
-package pe.waterdog.examples;
+package dev.waterdog.examples;
 
-import pe.waterdog.examples.commands.AddServerCommand;
-import pe.waterdog.examples.commands.GotoCommand;
-import pe.waterdog.examples.commands.KickCommand;
-import pe.waterdog.examples.commands.ServerPingCommand;
+import dev.waterdog.examples.commands.GotoCommand;
+import dev.waterdog.examples.commands.ServerPingCommand;
+import dev.waterdog.examples.commands.AddServerCommand;
+import dev.waterdog.examples.commands.KickCommand;
 import pe.waterdog.plugin.Plugin;
 
 public class UtilityCommands extends Plugin {

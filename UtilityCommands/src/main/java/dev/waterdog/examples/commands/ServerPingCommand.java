@@ -1,4 +1,4 @@
-package pe.waterdog.examples.commands;
+package dev.waterdog.examples.commands;
 
 import com.nukkitx.network.raknet.RakNetPong;
 import pe.waterdog.ProxyServer;

@@ -1,4 +1,4 @@
-package pe.waterdog.examples.commands;
+package dev.waterdog.examples.commands;
 
 import pe.waterdog.ProxyServer;
 import pe.waterdog.command.Command;

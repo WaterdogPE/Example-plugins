@@ -1,4 +1,4 @@
-package pe.waterdog.examples.handler;
+package dev.waterdog.examples.handler;
 
 import com.google.common.collect.Iterables;
 import pe.waterdog.network.ServerInfo;

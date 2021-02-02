@@ -1,4 +1,4 @@
-package pe.waterdog.examples;
+package dev.waterdog.examples;
 
 import pe.waterdog.event.defaults.PlayerChatEvent;
 import pe.waterdog.player.ProxiedPlayer;
