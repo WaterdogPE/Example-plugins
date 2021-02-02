@@ -1,4 +1,4 @@
 name: "MultiServerChat"
-main: "pe.waterdog.examples.MultiServerChat"
+main: "dev.waterdog.examples.MultiServerChat"
 version: "1.0"
 author: "WaterdogTEAM"
