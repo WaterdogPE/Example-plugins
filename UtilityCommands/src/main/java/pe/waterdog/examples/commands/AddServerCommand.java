@@ -7,12 +7,14 @@ import pe.waterdog.command.CommandSettings;
 import pe.waterdog.network.ServerInfo;
 
 import java.net.InetSocketAddress;
-import java.net.Proxy;
 
 public class AddServerCommand extends Command {
 
     public AddServerCommand() {
-        super("addserver", CommandSettings.builder().setDescription("Add a Server to the server list").setUsageMessage("/addserver <Name> <IP> <Port>").build());
+        super("addserver", CommandSettings.builder()
+                .setDescription("Add a Server to the server list")
+                .setUsageMessage("/addserver <Name> <IP> <Port>")
+                .setPermission("waterdog.example.addserver").build());
     }
 
     @Override
