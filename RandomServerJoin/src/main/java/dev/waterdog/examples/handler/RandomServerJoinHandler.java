@@ -1,9 +1,9 @@
 package dev.waterdog.examples.handler;
 
 import com.google.common.collect.Iterables;
-import pe.waterdog.network.ServerInfo;
-import pe.waterdog.player.ProxiedPlayer;
-import pe.waterdog.utils.types.IJoinHandler;
+import dev.waterdog.network.ServerInfo;
+import dev.waterdog.player.ProxiedPlayer;
+import dev.waterdog.utils.types.IJoinHandler;
 
 import java.util.Collection;
 import java.util.concurrent.ThreadLocalRandom;

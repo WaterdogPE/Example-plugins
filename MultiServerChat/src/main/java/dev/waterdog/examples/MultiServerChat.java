@@ -1,9 +1,9 @@
 package dev.waterdog.examples;
 
-import pe.waterdog.event.defaults.PlayerChatEvent;
-import pe.waterdog.player.ProxiedPlayer;
-import pe.waterdog.plugin.Plugin;
-import pe.waterdog.utils.Configuration;
+import dev.waterdog.event.defaults.PlayerChatEvent;
+import dev.waterdog.player.ProxiedPlayer;
+import dev.waterdog.plugin.Plugin;
+import dev.waterdog.utils.Configuration;
 
 
 public class MultiServerChat extends Plugin {

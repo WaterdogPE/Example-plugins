@@ -1,10 +1,10 @@
 package dev.waterdog.examples.commands;
 
-import pe.waterdog.ProxyServer;
-import pe.waterdog.command.Command;
-import pe.waterdog.command.CommandSender;
-import pe.waterdog.command.CommandSettings;
-import pe.waterdog.network.ServerInfo;
+import dev.waterdog.ProxyServer;
+import dev.waterdog.command.Command;
+import dev.waterdog.command.CommandSender;
+import dev.waterdog.command.CommandSettings;
+import dev.waterdog.network.ServerInfo;
 
 import java.net.InetSocketAddress;
 

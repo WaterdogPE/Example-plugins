@@ -1,9 +1,9 @@
 package dev.waterdog.examples.commands;
 
-import pe.waterdog.command.Command;
-import pe.waterdog.command.CommandSender;
-import pe.waterdog.command.CommandSettings;
-import pe.waterdog.player.ProxiedPlayer;
+import dev.waterdog.command.Command;
+import dev.waterdog.command.CommandSender;
+import dev.waterdog.command.CommandSettings;
+import dev.waterdog.player.ProxiedPlayer;
 
 public class GotoCommand extends Command {
 

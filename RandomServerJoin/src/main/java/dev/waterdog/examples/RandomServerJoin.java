@@ -1,7 +1,7 @@
 package dev.waterdog.examples;
 
 import dev.waterdog.examples.handler.RandomServerJoinHandler;
-import pe.waterdog.plugin.Plugin;
+import dev.waterdog.plugin.Plugin;
 
 public class RandomServerJoin extends Plugin {
     @Override
