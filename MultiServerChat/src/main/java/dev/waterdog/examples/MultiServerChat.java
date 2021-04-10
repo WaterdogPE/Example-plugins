@@ -20,7 +20,7 @@ public class MultiServerChat extends Plugin {
     public void onChat(PlayerChatEvent event) {
         event.setCancelled();
         for (ProxiedPlayer p : getProxy().getPlayers().values()) {
-            p.sendMessage(format.replace("{PLAYER}", p.getName()).replace("{MSG}", event.getMessage()));
+            p.sendMessage(format.replace("{PLAYER}", event.getPlayer().getName()).replace("{MSG}", event.getMessage()));
         }
     }
 }
