@@ -1,4 +1,4 @@
 name: "RandomServerJoin"
 author: "WaterdogTEAM"
 version: "1.0"
-main: "dev.waterdog.examples.RandomServerJoin"
+main: "dev.waterdog.plugins.randomjoin.RandomServerJoin"

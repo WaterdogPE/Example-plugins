@@ -1,9 +1,10 @@
-package dev.waterdog.examples;
+package dev.waterdog.plugins.randomjoin;
 
-import dev.waterdog.examples.handler.RandomServerJoinHandler;
-import dev.waterdog.plugin.Plugin;
+import dev.waterdog.plugins.randomjoin.handler.RandomServerJoinHandler;
+import dev.waterdog.waterdogpe.plugin.Plugin;
 
 public class RandomServerJoin extends Plugin {
+
     @Override
     public void onEnable() {
         this.getProxy().setJoinHandler(new RandomServerJoinHandler());

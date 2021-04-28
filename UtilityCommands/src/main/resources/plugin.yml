@@ -1,4 +1,4 @@
 name: "UtilityCommands"
 author: "WaterdogTEAM"
 version: "1.0"
-main: "dev.waterdog.examples.UtilityCommands"
+main: "dev.waterdog.plugins.commands.UtilityCommands"
