@@ -22,7 +22,7 @@
     <repositories>
         <repository>
             <id>waterdog</id>
-            <url>https://repo.waterdog.dev/artifactory/main/</url>
+            <url>http://repo.waterdog.dev/artifactory/main/</url>
         </repository>
     </repositories>
 
