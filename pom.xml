@@ -26,19 +26,6 @@
         </repository>
     </repositories>
 
-    <distributionManagement>
-        <repository>
-            <id>central</id>
-            <name>waterdog-releases</name>
-            <url>https://repo.waterdog.dev/artifactory/releases</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>waterdog-snapshots</name>
-            <url>https://repo.waterdog.dev/artifactory/snapshots</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <dependencies>
         <dependency>
             <groupId>dev.waterdog.waterdogpe</groupId>
