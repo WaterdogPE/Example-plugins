@@ -33,8 +33,8 @@ public class GotoCommand extends Command {
             return true;
         }
 
-        player.sendMessage("§cYou are being connected to §e" + target.getName() + " §con §e" + target.getServer().getInfo().getServerName() + "§c..");
-        player.connect(target.getServer().getInfo());
+        player.sendMessage("§cYou are being connected to §e" + target.getName() + " §con §e" + target.getServerInfo().getServerName() + "§c..");
+        player.connect(target.getServerInfo());
         return true;
     }
 }
