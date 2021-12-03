@@ -1,7 +1,7 @@
 package dev.waterdog.plugins.randomjoin.handler;
 
 import com.google.common.collect.Iterables;
-import dev.waterdog.waterdogpe.network.ServerInfo;
+import dev.waterdog.waterdogpe.network.serverinfo.ServerInfo;
 import dev.waterdog.waterdogpe.player.ProxiedPlayer;
 import dev.waterdog.waterdogpe.utils.types.IJoinHandler;
 
