@@ -13,7 +13,7 @@ public class PingCommand extends Command {
 
     public PingCommand() {
         super("ping", CommandSettings.builder()
-                .setDescription("Add a Server to the server list")
+                .setDescription("See the current ping of a player")
                 .setUsageMessage("ping (name)")
                 .setPermission("waterdog.example.ping").build());
     }
