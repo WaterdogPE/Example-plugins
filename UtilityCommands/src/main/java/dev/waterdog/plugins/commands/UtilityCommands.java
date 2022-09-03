@@ -12,5 +12,6 @@ public class UtilityCommands extends Plugin {
         this.getProxy().getCommandMap().registerCommand(new ServerPingCommand());
         this.getProxy().getCommandMap().registerCommand(new AddServerCommand());
         this.getProxy().getCommandMap().registerCommand(new RemoveServerCommand());
+        this.getProxy().getCommandMap().registerCommand(new PingCommand());
     }
 }
